@@ -1,6 +1,8 @@
-# Analisis-OMS
+# Análisis-OMS
 
 Dataset sacado de la página: Kaggle
+
+Lo que quiero lograr en este modelo, es ver la relación que existe entre mis datos reales vs los que predijo. Con esto se podrá saber qué tan preciso fue la predicción.
 
 Definición de las columnas para un mejor entendimiento:
 |Field|Description|
